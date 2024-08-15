@@ -22,4 +22,4 @@ https://shields.io/badges
 
 ![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoliveira2&layout=compact)](https://github.com/xandoliveira2/xandoliveira2)
