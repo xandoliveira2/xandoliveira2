@@ -24,5 +24,5 @@ https://shields.io/badges
 
 <div>
   <a href="https://github.com/xandoliveira2">
-  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/blob/master/api/">
+  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/blob/master/api">
 </div>
