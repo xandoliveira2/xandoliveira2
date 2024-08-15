@@ -25,6 +25,7 @@ https://shields.io/badges
 <!--![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl)-->
 
 ## Github statistics
+![GithubCatGIF](https://github.com/user-attachments/assets/c3d4b9e3-d07c-483c-b9f2-57b19e36f3dd) 
 ![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true) 
 
 
