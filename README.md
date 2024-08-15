@@ -31,8 +31,10 @@ https://shields.io/badges
 
 
 ## 💾 Databases
-
-![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div>
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+<!--![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)-->
 
 <!--![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl)-->
   
