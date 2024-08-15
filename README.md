@@ -30,3 +30,12 @@ https://shields.io/badges
 
 ## ♨️ Language statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoliveira2&layout=pie&hide=html,css&theme=nightowl)](https://github.com/xandoliveira2)
+
+
+## ⭐ Special thanking / Credits
+
+codes taken from > https://github.com/anuraghazra/github-readme-stats
+
+#special thanking 
+https://github.com/anuraghazra
+https://github.com/jrgoncalves85
