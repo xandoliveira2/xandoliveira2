@@ -51,6 +51,8 @@ https://shields.io/badges
 
 codes taken from > https://github.com/anuraghazra/github-readme-stats
 
+icons taken from > https://devicon.dev/
+
 knowledge taken from > https://www.youtube.com/watch?v=TsaLQAetPLU
 
 *special thanking*  
