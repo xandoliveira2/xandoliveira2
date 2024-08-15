@@ -7,8 +7,10 @@ I am a student on the Multiplatform Software Development course at FATEC in Itap
 <!-- https://github.com/Ileriayo/markdown-badges
 https://shields.io/badges
 -->
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+</div>
 
 ## 🐍 Languages
 <div>
