@@ -32,7 +32,7 @@ https://shields.io/badges
 
 ## 💾 Databases
 <div>
-<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <!--![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)-->
 
