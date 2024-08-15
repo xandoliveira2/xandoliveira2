@@ -24,4 +24,4 @@ https://shields.io/badges
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoliveira2&layout=compact&hide=html,css&theme=dark)](https://github.com/xandoliveira2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoliveira2&layout=compact&hide=html,css&theme=nightowl)](https://github.com/xandoliveira2)
