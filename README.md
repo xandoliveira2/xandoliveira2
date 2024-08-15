@@ -37,5 +37,5 @@ https://shields.io/badges
 codes taken from > https://github.com/anuraghazra/github-readme-stats
 
 *special thanking* 
-https://github.com/anuraghazra
+https://github.com/anuraghazra  
 https://github.com/jrgoncalves85
