@@ -55,6 +55,6 @@ icons taken from > https://devicon.dev/
 
 knowledge taken from > https://www.youtube.com/watch?v=TsaLQAetPLU
 
-*special thanking*  
+*special thanking*   
 https://github.com/anuraghazra  
 https://github.com/jrgoncalves85
