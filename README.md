@@ -23,5 +23,5 @@ https://shields.io/badges
 ![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/xandoliveira2)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xandoliveira2)](https://github.com/xandoliveira2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoliveira2&layout=compact)](https://github.com/xandoliveira2)
