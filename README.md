@@ -22,8 +22,4 @@ https://shields.io/badges
 
 ![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div>
-  <a href="https://github.com/xandoliveira2">
-  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/api?username=xandoliveira2">
-  <img height="180em" src="https://github.com/anuraghazra/github-readme-stats/api?username=xandoliveira2">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
