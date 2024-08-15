@@ -23,6 +23,6 @@ https://shields.io/badges
 ![MySQL](https://img.shields.io/badge/mysql-%2305a.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div>
-  <a src="https://github.com/xandoliveira2">
+  <a href="https://github.com/xandoliveira2">
   <img style="width:180px" src="https://github.com/anuraghazra/github-readme-stats/blob/master/api/index.js">
 </div>
