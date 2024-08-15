@@ -1,8 +1,8 @@
-# Olá, meu nome é Alexandre Alcindo
+# Hello, I'm Alexandre Alcindo
 
-Sou um estudante do curso de Desenvolvimento de Software Multiplataforma na FATEC de Itapira, ainda não possuo experiência profissional na área e venho buscando evoluir para um dia conseguir entrar no mercado de tecnologia para contribuir e evoluir
-
-## 🖥 Plataformas
+I am a student on the Multiplatform Software Development course at FATEC in Itapira (Brazil), I do not yet have professional experience in the area and I have been trying to evolve so that one day I can enter the technology market to contribute and evolve 
+<!--the phrase above its translated by google translate, i am not fluent, i just know a `bit` [by the way, this line is by my own]-->
+## 🖥 Platforms 
 
 <!-- https://github.com/Ileriayo/markdown-badges
 https://shields.io/badges
@@ -10,7 +10,7 @@ https://shields.io/badges
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 🐍 Linguagens
+## 🐍 Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
