@@ -39,9 +39,9 @@ https://shields.io/badges
 <!--![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl)-->
   
 ## 🐈‍⬛ Github statistics  
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true">
+<!--<img height=180em src="https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true">-->
 
-<!--![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true)-->
+![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true)
 
 ## ♨️ Language statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandoliveira2&layout=pie&hide=html,css&theme=nightowl&langs_count=10&)](https://github.com/xandoliveira2)  
