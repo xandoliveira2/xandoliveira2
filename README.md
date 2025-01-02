@@ -43,7 +43,7 @@ https://shields.io/badges
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true">
 
 
-  <img  src="https://github-readme-streak-stats-xandoliveira.vercel.app?user=xandoliveira&theme=nightowl&hide_border=false&disable_animations=true" alt="xandoliveira's Streaks">
+  <img  src="https://github-readme-streak-stats.vercel.app?user=xandoliveira&theme=nightowl&hide_border=false&disable_animations=true" alt="xandoliveira's Streaks">
 </div>
 
 <!--![xandoliveira2's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true)-->  
