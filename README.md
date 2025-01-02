@@ -40,7 +40,7 @@ https://shields.io/badges
   
 ## 🐈‍⬛ Github statistics  
 
-<img height=180em src="https://github-readme-stats-xandoliveira2.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true">
+<img height=180em src="https://github-readme-stats.vercel.app/api?username=xandoliveira2&show_icons=true&theme=nightowl&count_private=true">
 <div>
   <img height=180em src="https://github-readme-streak-stats-xandoliveira2.vercel.app?user=xandoliveira2&theme=dracula&hide_border=false&disable_animations=true" alt="xandoliveira2's Streaks">
 </div>
